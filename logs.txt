@@ -1,0 +1,6 @@
+File: D:\workspace\i18n-cli\repos\example a\src\test.js
+  Missing: "welcome_message"
+  Missing: "Hola"
+  Missing: "Hola"
+File: D:\workspace\i18n-cli\repos\example a\src\test.js
+  Missing: "welcome_message"

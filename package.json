@@ -1,0 +1,19 @@
+{
+  "name": "i18n-cli",
+  "version": "1.0.0",
+  "bin": {
+    "i18n-cli": "./bin/i18n.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.25.8",
+    "@babel/preset-env": "^7.25.8",
+    "@babel/preset-react": "^7.25.7",
+    "@babel/traverse": "^7.25.7",
+    "commander": "^10.0.0",
+    "fs-extra": "^11.0.0",
+    "inquirer": "^9.0.0"
+  },
+  "devDependencies": {
+    "@babel/parser": "^7.25.8"
+  }
+}
