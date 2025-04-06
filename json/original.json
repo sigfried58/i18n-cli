@@ -1,0 +1,16 @@
+{
+  "001": "hola",
+  "002": {
+    "msg": "description"
+  },
+  "a": {
+    "b.c": "valor original",
+    "b": {
+      "c": "ejemplo",
+      "d.e": {
+        "f": "efe"
+      }
+    },
+    "x": ["ene", "feb", "mar"]
+  }
+}

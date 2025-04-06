@@ -4,6 +4,10 @@
   "bin": {
     "i18n-cli": "./bin/i18n.js"
   },
+  "scripts": {
+    "start": "node cli.js",
+    "convert": "node json/convert.js"
+  },
   "dependencies": {
     "@babel/core": "^7.25.8",
     "@babel/preset-env": "^7.25.8",
@@ -11,7 +15,8 @@
     "@babel/traverse": "^7.25.7",
     "commander": "^10.0.0",
     "fs-extra": "^11.0.0",
-    "inquirer": "^9.0.0"
+    "inquirer": "^9.0.0",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@babel/parser": "^7.25.8"
